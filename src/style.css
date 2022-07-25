@@ -1,0 +1,23 @@
+.main_container{
+    width: 30%;
+    border: 5px solid violet;
+}
+
+.control_sub_main_width{
+    width: 70%;
+    /* border: 1px solid black; */
+    margin: auto;
+    margin-bottom: 25px;
+}
+
+.control_sub_main_width input{
+    width: 97%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.flex_container_options{
+    display: flex;
+    justify-content: space-between;
+}
+
